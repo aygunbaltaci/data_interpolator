@@ -3,6 +3,7 @@
 These scripts interpolate two datasets with different resolutions to one another. 
 
 **interpolator_highresolution.py**: It interpolates the low resolution data to the high resolution data based on the input in the 1st column of the provided input files (e.g. Time data).
+
 **interpolator_lowresolution.py**: It interpolates the high resolution data to the low resolution data based on the input in the 1st column of the provided input files.
 
 ## Why Useful? 
