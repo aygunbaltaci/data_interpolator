@@ -21,6 +21,7 @@ controller (data with low resolution). This way, you can combine both data files
 
 ## Input Files
 **inputfiles/data_highresolution.csv**: High resolution dataset
+
 **inputfiles/data_lowresolution.csv**: Low resolution dataset
 
 ## Usage
